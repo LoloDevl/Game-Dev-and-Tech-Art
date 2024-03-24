@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: c440855f04815084f8f75564aac4c476
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - droidPrefab: {fileID: 8523759691481334762, guid: 6601110e2aded0c4eb891c9848b455a9, type: 3}
+  - droidSpawnPoint: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
